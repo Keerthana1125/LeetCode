@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthana1125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthana1125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
