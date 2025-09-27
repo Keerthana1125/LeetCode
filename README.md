@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthana1125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Keerthana1125/LeetCode/tree/master/0198-house-robber) |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
