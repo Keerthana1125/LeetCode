@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Keerthana1125/LeetCode/tree/master/0198-house-robber) |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Keerthana1125/LeetCode/tree/master/0056-merge-intervals) |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Keerthana1125/LeetCode/tree/master/0089-gray-code) |
+## String
+|  |
+| ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
