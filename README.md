@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Keerthana1125/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Binary Search
 |  |
 | ------- |
