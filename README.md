@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Keerthana1125/LeetCode/tree/master/0198-house-robber) |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
