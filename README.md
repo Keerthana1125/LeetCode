@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Keerthana1125/LeetCode/tree/master/0089-gray-code) |
 | [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Keerthana1125/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthana1125/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
