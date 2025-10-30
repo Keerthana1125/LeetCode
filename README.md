@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Keerthana1125/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthana1125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Keerthana1125/LeetCode/tree/master/0198-house-robber) |
+| [0284-peeking-iterator](https://github.com/Keerthana1125/LeetCode/tree/master/0284-peeking-iterator) |
 | [0611-valid-triangle-number](https://github.com/Keerthana1125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Keerthana1125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Design
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Keerthana1125/LeetCode/tree/master/0284-peeking-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Keerthana1125/LeetCode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
