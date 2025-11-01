@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Keerthana1125/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Keerthana1125/LeetCode/tree/master/0284-peeking-iterator) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Keerthana1125/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
