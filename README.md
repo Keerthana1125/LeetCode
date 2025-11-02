@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Keerthana1125/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [1319-unique-number-of-occurrences](https://github.com/Keerthana1125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keerthana1125/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [1319-unique-number-of-occurrences](https://github.com/Keerthana1125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Keerthana1125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthana1125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
