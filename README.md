@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Keerthana1125/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1319-unique-number-of-occurrences](https://github.com/Keerthana1125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Keerthana1125/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Keerthana1125/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Keerthana1125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/Keerthana1125/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
