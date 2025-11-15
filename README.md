@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/Keerthana1125/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Keerthana1125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Keerthana1125/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Keerthana1125/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Keerthana1125/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -140,5 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Keerthana1125/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Keerthana1125/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Keerthana1125/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
